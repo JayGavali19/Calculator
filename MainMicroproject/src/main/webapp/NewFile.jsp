@@ -27,7 +27,7 @@ input, button {
   border: 2.4px solid balck;
 }
 input{
-margin-left:10px;
+
 }
 button{
 color:black;
@@ -57,6 +57,7 @@ img:hover{
 <form action="MyServlet">
 <div class="login">
 <label for="Name"></label><input name="num1"placeholder="Enter first Number"></input>
+
 <label for="Password"></label><input name="num2"placeholder="Enter second Number"></input>
 </div>
 

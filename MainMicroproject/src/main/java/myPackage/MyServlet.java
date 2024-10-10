@@ -20,7 +20,7 @@ public class MyServlet extends HttpServlet {
 	        "How many programmers does it take to change a light bulb? None, it's a hardware problem.",
 	        "Why do programmers prefer dark mode? Because light attracts bugs!",
 	        "Why was the teacher wearing sunglasses in the classroom? Because the class was so bright.",
-  
+	        "What do computers like to eat? -> Chips."
 	    };
        
     /**
